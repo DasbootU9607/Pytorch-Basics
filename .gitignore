@@ -1,4 +1,8 @@
 logs/
+dataset/
+datasets/
+p4/
+dataloader/
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
